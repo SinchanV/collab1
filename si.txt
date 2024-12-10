@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-printf("HIIIIIII");
-printf("HELLO");
-printf("AIML");
-printf("bsec");
+int a=10,b=200,c;
+c=a+b;
+printf("The Result is %d",c);
+return 0;
 }
